@@ -8,7 +8,7 @@
 ### *--scikit-learn    1.3.2*
 ### *--customtkinter    5.2.2*
 
-## ❗ The goal of this study was to create a model that could predict, based on patient data, whether he has diabetes or not.
+## ❗❗❗ The goal of this study was to create a model that could predict, based on patient data, whether he has diabetes or not.
 
 #### *It was decided to use two potentially most suitable methods for solving the problem - a neural network and a forest.*  
 
